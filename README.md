@@ -47,7 +47,7 @@ inlcude active skin css
 
 Change logo by setting the `$skinLogo` variable above active_skin import line in active_admin.css.scss
 
-    $skinLogo: url("admin_logo.png") no-repeat 0 0;
+    $skinLogo: image-url("admin_logo.png") no-repeat 0 0;
 
 You can even change basic colors of the theme by placing some other variables:
   
